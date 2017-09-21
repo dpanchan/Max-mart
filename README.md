@@ -1,2 +1,2 @@
-# Max-mart
-This application allows user to buy the products.
+# Max Mart
+This application is a sample shopping website
